@@ -92,7 +92,8 @@
         android:layout_alignRight="@+id/editText"
         android:layout_alignEnd="@+id/editText"
         android:textOff="OFF"
-        android:textOn="ON" />
+        android:textOn="ON"
+        android:background="#e91e63" />
 
     <ImageView
         android:layout_width="@dimen/size_image"
