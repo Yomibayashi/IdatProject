@@ -3,4 +3,26 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+
+    <string name="sqlite_titulo">SQLite Database</string>
+    <string name="sqlite_subtitulo">Almacenamiento de datos local.</string>
+    <string name="btn_off">OFF</string>
+
+    <string name="url_titulo">Url Server Rest</string>
+    <string name="url_subtitulo">Almacenamiento de datos remoto.</string>
+
+    <string name="user_titulo">User</string>
+    <string name="user_subtitulo">Usuario del servicio rest.</string>
+
+    <string name="password_titulo">Password</string>
+    <string name="password_subtitulo">Password de usuario del servicio rest.</string>
+
+    <string name="volumen">Volumen</string>
+    <string name="url_hint">10.0.2.2.90/Slim-2.6.2/</string>
+    <string name="hint_user">admin</string>
+    <string name="password_hint">password</string>
+
+    <string name="sound_titulo">Volumen</string>
+
 </resources>
