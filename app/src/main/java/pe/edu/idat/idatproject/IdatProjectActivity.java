@@ -9,8 +9,6 @@ import android.view.View;
 
 public class IdatProjectActivity extends ActionBarActivity {
 
-    private View view1;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
